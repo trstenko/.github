@@ -1,5 +1,5 @@
-Offical trstenko organisation.
+# Offical trstenko organisation
 Checkout our **websites**:
 > - https://trstenko.com
 > - https://voice-collector.trstenko.com
-> Trstenko is comming soon (:
+Trstenko is comming soon (:
